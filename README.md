@@ -1,10 +1,8 @@
 # boxkit
 
-Built with the [ublue-os/boxit](https://github.com/ublue-os/boxkit) template.
+Built with the [ublue-os/boxkit](https://github.com/ublue-os/boxkit) template.
 
-## Setup with distrobox
-
-### Create Box
+## Setup
 
 With distrobox:
 
